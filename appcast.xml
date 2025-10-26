@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Application</title>
+    <description>Most recent changes with links to updates</description>
+    <language>en</language>
+    <item>
+      <title>Application 1.0.0.1</title>
+      <pubDate>Sun, 26 Oct 2025 17:41:13 +01:00</pubDate>
+      <sparkle:version>1.0.0.1</sparkle:version>
+      <sparkle:shortVersionString>1.0.0.1</sparkle:shortVersionString>
+      <enclosure url="file:///C:/Users/ilia/Documents/LabHelperUpdate/LabHelper_V1.0.0.1.msi" sparkle:version="1.0.0.1" sparkle:shortVersionString="1.0.0.1" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="0pI7U8ASzg044Aiqitls1UYVhWtYrezHnOgnuizCCekjt9QKq8KPvjursdQ+s/LoJevxzEbk6+pUYHlb/gu+CQ==" />
+    </item>
+  </channel>
+</rss>
