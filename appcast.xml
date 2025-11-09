@@ -5,67 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Application 1.0.8</title>
-      <pubDate>Sun, 09 Nov 2025 12:56:57 +01:00</pubDate>
-      <sparkle:version>1.0.8</sparkle:version>
-      <sparkle:shortVersionString>1.0.8</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/1.0.8/LabHelper%20V1.0.8.msi" sparkle:version="1.0.8" sparkle:shortVersionString="1.0.8" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="hqMuefut82EEmTbOxqfUoIW+pSfHQKZ1zOk3BW0SukgO2TcCwD3CgVR60xft7BKUxsxYqU+biiNKxcTzqLGUAw==" />
-    </item>
-    <item>
-      <title>Application 0.1.8</title>
-      <pubDate>Sun, 09 Nov 2025 11:09:43 +01:00</pubDate>
-      <sparkle:version>0.1.8</sparkle:version>
-      <sparkle:shortVersionString>0.1.8</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.8/LabHelper%20V0.1.8.msi" sparkle:version="0.1.8" sparkle:shortVersionString="0.1.8" length="43085824" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="HznJQTGltZv2zGB6y7gmgUlEPtxNGOHBBImNZKsD3CCSKqWDUXEcHGlLbfj9uPquveZ2eAAfdbEMs8DdB7K8Ag==" />
-    </item>
-    <item>
-      <title>Application 0.1.7</title>
-      <pubDate>Sun, 09 Nov 2025 13:21:03 +01:00</pubDate>
-      <sparkle:version>0.1.7</sparkle:version>
-      <sparkle:shortVersionString>0.1.7</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.7/LabHelper%20V0.1.7.msi" sparkle:version="0.1.7" sparkle:shortVersionString="0.1.7" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="dtu/LDVpE5qRTuiuUF3LE3tDdJ6XPDmauyEgBoFol6SbAlPC/QrGVIP5msOAx58Q46Ap9wJHf5Gf/KQc8iyoDA==" />
-    </item>
-    <item>
-      <title>Application 0.1.5</title>
-      <pubDate>Sun, 09 Nov 2025 20:07:25 +01:00</pubDate>
-      <sparkle:version>0.1.5</sparkle:version>
-      <sparkle:shortVersionString>0.1.5</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.5/LabHelper%20V0.1.5.msi" sparkle:version="0.1.5" sparkle:shortVersionString="0.1.5" length="43094016" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="hky767+45G8oJGDmjVDEmZmgYh8ebyeXjcQS/ujoa5fAz5NHWnXVymp/quEomiq6Qsr9LF7vsAe2kjc+vw3lCA==" />
-    </item>
-    <item>
-      <title>Application 0.1.4</title>
-      <pubDate>Sun, 09 Nov 2025 11:05:11 +01:00</pubDate>
-      <sparkle:version>0.1.4</sparkle:version>
-      <sparkle:shortVersionString>0.1.4</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.4/LabHelper%20V0.1.4.msi" sparkle:version="0.1.4" sparkle:shortVersionString="0.1.4" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="AdEQUcQIidPxjV1Aj/bn0TvD5WL51fpHkpek5ZoAku2IdgMLBP+XVI8C8nbBvNswwHudaw6y2F4p6Xz0SKeEAw==" />
-    </item>
-    <item>
-      <title>Application 0.1.3</title>
-      <pubDate>Sun, 09 Nov 2025 10:34:12 +01:00</pubDate>
-      <sparkle:version>0.1.3</sparkle:version>
-      <sparkle:shortVersionString>0.1.3</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.3/LabHelper%20V0.1.3.msi" sparkle:version="0.1.3" sparkle:shortVersionString="0.1.3" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="nZzGL11eqSCqbSIQcSMTeir6v6DE3umtFwkbbtpin1XArg8rAff/9+PrmObHf24JKG1EpNYNBinfDxIrFvZ4Ag==" />
-    </item>
-    <item>
-      <title>Application 0.1.2</title>
-      <pubDate>Sun, 09 Nov 2025 10:20:52 +01:00</pubDate>
-      <sparkle:version>0.1.2</sparkle:version>
-      <sparkle:shortVersionString>0.1.2</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.2/LabHelper%20V0.1.2.msi" sparkle:version="0.1.2" sparkle:shortVersionString="0.1.2" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="6E4O0kj70AuK/6dMb0culHvxpoRaKsE3iAF/AKkwjKsboYQCot1VtjBSJ4U3um9R+H8dtqvvOlGBP9ON0rdiCw==" />
-    </item>
-    <item>
-      <title>Application 0.1.1</title>
-      <pubDate>Sun, 09 Nov 2025 11:15:18 +01:00</pubDate>
-      <sparkle:version>0.1.1</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.1/LabHelper%20V0.1.1.msi" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="43089920" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="4iKZKVOcOaKwAJFOqtj5kNftAzhdyTwOg/L9rNb6KRqVfFYxK+vHfMCqJYZ9Iehx33X2i+knirLGBx/0rnXYDQ==" />
-    </item>
-    <item>
       <title>Application 0.1</title>
-      <pubDate>Sun, 09 Nov 2025 20:25:29 +01:00</pubDate>
+      <pubDate>Sun, 09 Nov 2025 20:32:54 +01:00</pubDate>
       <sparkle:version>0.1</sparkle:version>
       <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1/LabHelper%20V0.1.msi" sparkle:version="0.1" sparkle:shortVersionString="0.1" length="43085824" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="XcsPup9FbGB8YwhyD8YK80F5UnhTBjYXg6P07Es2e5jz0cYGEoRl/ChQcX2Q21hVU3bJ9Admwk2Xi9Qz/+iDBQ==" />
+      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1/LabHelper%20V0.1.msi" sparkle:version="0.1" sparkle:shortVersionString="0.1" length="43085824" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="8CfF8inkMZdhxo2ypQzUJkYWpnOJNsuVKfYvw76FwIjmlIAiQGBXcRGxzgIz376qryW6Y8KvYdViyfoKt+ERDQ==" />
     </item>
   </channel>
 </rss>
