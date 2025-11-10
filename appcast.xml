@@ -9,7 +9,7 @@
       <pubDate>Mon, 10 Nov 2025 16:41:00 +01:00</pubDate>
       <sparkle:version>0.1.1</sparkle:version>
       <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.1/LabHelper_V0.1.1.msi" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="43085824" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="Mck6wWTtkBM8QlPBFEgmDjBKjA9aYQvQt+ZGPIFVBgXJg9PFdfxLabhSgr0Chhw76M5TIzjSUlqP+Vxk5UpADg==" />
+      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.1/LabHelper_V0.1.1.msi" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="43085824" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="js3h2bvxLR38nPHpccGOog+nIYbhXNZDctKZqsBPA6N+P7VIrQJzld8Ko/FBJN669P92gI2pXZKZEJXqRmT3CA==" />
     </item>
     <item>
       <title>Application 0.1</title>
