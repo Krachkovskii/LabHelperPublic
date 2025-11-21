@@ -5,18 +5,11 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
-      <title>Application 0.1.1</title>
-      <pubDate>Tue, 11 Nov 2025 14:49:14 +01:00</pubDate>
-      <sparkle:version>0.1.1</sparkle:version>
-      <sparkle:shortVersionString>0.1.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1.1/LabHelper_V0.1.1.msi" sparkle:version="0.1.1" sparkle:shortVersionString="0.1.1" length="43065344" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="wakU59DDnza1L4MWVbCneyUabJimC45fh/VE2dR8RaUnlG3/+aqiVrCpS8TVxY+tVJRZCl2ocJUJVQY1Fy0rCQ==" />
-    </item>
-    <item>
       <title>Application 0.1</title>
-      <pubDate>Tue, 11 Nov 2025 09:57:56 +01:00</pubDate>
+      <pubDate>Fri, 21 Nov 2025 18:33:13 +01:00</pubDate>
       <sparkle:version>0.1</sparkle:version>
       <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1/LabHelper_V0.1.msi" sparkle:version="0.1" sparkle:shortVersionString="0.1" length="43057152" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="FMFIPs6+PY5U+Eoz6pn1DAakesi+FqXrcRYXBOQxKuM7F0pJWySJKVd5dxmNOJU+krnaeNfdJO8zXdgCnkgDCA==" />
+      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1/LabHelper_V0.1.msi" sparkle:version="0.1" sparkle:shortVersionString="0.1" length="44072960" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="vZFnrSPvrUr8qBBANtac2ofX/tGnS8qu+ZF2FT7tZflI8hRWxQYCRFT8gzg69TqbhUPkt1iUld4Mx6U1NH2XDQ==" />
     </item>
   </channel>
 </rss>
