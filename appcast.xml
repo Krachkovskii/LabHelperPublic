@@ -6,10 +6,10 @@
     <language>en</language>
     <item>
       <title>Application 0.1</title>
-      <pubDate>Fri, 21 Nov 2025 18:38:03 +01:00</pubDate>
+      <pubDate>Fri, 21 Nov 2025 18:57:27 +01:00</pubDate>
       <sparkle:version>0.1</sparkle:version>
       <sparkle:shortVersionString>0.1</sparkle:shortVersionString>
-      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1/LabHelper_V0.1.msi" sparkle:version="0.1" sparkle:shortVersionString="0.1" length="44101632" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="C5xdl5DkJO4bF1F7n4/Z8Z7xCpsOtgiXX96b4Bgad0D6UZ33gb7yQcYDHDkceH26DPSLamf3mBvWXnhrCsDTBQ==" />
+      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.1/LabHelper_V0.1.msi" sparkle:version="0.1" sparkle:shortVersionString="0.1" length="44101632" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="ECHuKWg7y/GGrVm6RUPFhDnRRODEr4gXErILdtY1GN1/8X7YKF0vuL5M+GkuWhinvSjH177ilQ3BhHYzcjfnAQ==" />
     </item>
   </channel>
 </rss>
