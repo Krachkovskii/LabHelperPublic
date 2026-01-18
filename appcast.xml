@@ -5,6 +5,13 @@
     <description>Most recent changes with links to updates</description>
     <language>en</language>
     <item>
+      <title>Application 0.3</title>
+      <pubDate>Sun, 18 Jan 2026 19:36:26 +01:00</pubDate>
+      <sparkle:version>0.3</sparkle:version>
+      <sparkle:shortVersionString>0.3</sparkle:shortVersionString>
+      <enclosure url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/0.3/LabHelper_V0.3.msi" sparkle:version="0.3" sparkle:shortVersionString="0.3" length="44331008" sparkle:os="windows" type="application/octet-stream" sparkle:criticalUpdate="false" sparkle:signature="9GGjHMsvaky1u7Ll6gfFSXQ23TTLpj0CqgYW7ugJ3KvZ7ch9/rvMa3MkKEKjOxu0Cs0sEhyw1NpqOeQ5kfCkDw==" />
+    </item>
+    <item>
       <title>Application 0.2</title>
       <pubDate>Wed, 03 Dec 2025 17:46:03 +01:00</pubDate>
       <sparkle:version>0.2</sparkle:version>
