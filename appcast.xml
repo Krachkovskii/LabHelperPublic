@@ -6,15 +6,15 @@
     <description>Lab Helper Application</description>
     <language>en-us</language>
     <item>
-      <title>Version 1.4</title>
-      <pubDate>Wed, 02 Sep 2026 20:35:36 +0000</pubDate>
-      <sparkle:releaseNotesLink>https://github.com/Krachkovskii/LabHelperPublic/releases/tag/v1.4</sparkle:releaseNotesLink>
+      <title>Version 1.4.1</title>
+      <pubDate>Fri, 04 Sep 2026 05:18:45 +0000</pubDate>
+      <sparkle:releaseNotesLink>https://github.com/Krachkovskii/LabHelperPublic/releases/tag/v1.4.1</sparkle:releaseNotesLink>
       <enclosure
-        url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/v1.4/LabHelper.msi"
-        sparkle:version="1.4"
+        url="https://github.com/Krachkovskii/LabHelperPublic/releases/download/v1.4.1/LabHelper.msi"
+        sparkle:version="1.4.1"
         sparkle:os="windows"
         type="application/x-msi"
-        length="86325206" />
+        length="86325208" />
     </item>
   </channel>
 </rss>
